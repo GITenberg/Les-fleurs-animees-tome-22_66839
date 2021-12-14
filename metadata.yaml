@@ -1,0 +1,65 @@
+_repo: Les-fleurs-animees-tome-22_66839
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Delord, Taxile
+    birthdate: 1815
+    deathdate: 1877
+    gutenberg_agent_id: '48134'
+    url: http://www.gutenberg.org/2009/agents/48134
+  - agent_name: Karr, Alphonse
+    alias: Karr, Jean-Alphonse
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '37873'
+    url: http://www.gutenberg.org/2009/agents/37873
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jean-Baptiste_Alphonse_Karr
+    - http://fr.wikipedia.org/wiki/Alphonse_Karr
+  - agent_name: Raban
+    aliases:
+    - Damville, Raban de
+    - Raban, Louis-Francois
+    - Robert, Paul, Sir
+    - Boissi, M. de
+    - Raban, Louis-François
+    - Barins, comte de
+    - Foelix, comte de
+    - Barba, J.-N.
+    - Macaire, Robert
+    birthdate: 1795
+    deathdate: 1870
+    gutenberg_agent_id: '48135'
+    url: http://www.gutenberg.org/2009/agents/48135
+  illustrator:
+    agent_name: Maubert
+    alias: Maubert, M.
+    gutenberg_agent_id: '48136'
+    url: http://www.gutenberg.org/2009/agents/48136
+creator:
+  author:
+    agent_name: Grandville, J. J.
+    aliases:
+    - Grandville, Jean Ignace Isidore Gérard, called
+    - Gérard, Jean Ignace Isidore
+    - Grandville, J.J.
+    - Grandville, Jean Ignace Isidore Gerard, called
+    birthdate: 1803
+    deathdate: 1847
+    gutenberg_agent_id: '25811'
+    url: http://www.gutenberg.org/2009/agents/25811
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Ignace_Isidore_G%C3%A9rard_Grandville
+    - https://fr.wikipedia.org/wiki/Grandville
+description: ''
+gutenberg_issued: '2021-11-29'
+identifiers:
+  gutenberg: '66839'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les fleurs animées tome 2/2
+url: http://www.gutenberg.org/ebooks/66839
