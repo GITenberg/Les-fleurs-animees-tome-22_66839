@@ -36,6 +36,9 @@ contributor:
     alias: Maubert, M.
     gutenberg_agent_id: '48136'
     url: http://www.gutenberg.org/2009/agents/48136
+covers:
+- cover_type: archival
+  image_path: 66839-h/images/cover.jpg
 creator:
   author:
     agent_name: Grandville, J. J.
@@ -52,6 +55,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Ignace_Isidore_G%C3%A9rard_Grandville
     - https://fr.wikipedia.org/wiki/Grandville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66839#Les-fleurs-animees-tome-22
 gutenberg_issued: '2021-11-29'
 identifiers:
   gutenberg: '66839'
